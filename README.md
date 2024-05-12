@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">A passionate Java developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exstaa&label=Profile%20views&color=0e75b6&style=flat" alt="exstaa" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/h.zayevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.zayevv" height="30" width="40" /></a>
